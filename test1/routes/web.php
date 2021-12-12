@@ -13,4 +13,4 @@
 |
 */
 
-$router->post('/', 'TestController@test');
+$router->post('/parenthesis', 'TestController@test');

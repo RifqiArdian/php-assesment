@@ -13,4 +13,4 @@
 |
 */
 
-$router->post('/', 'TestController@test');
+$router->post('/validate-excel', 'TestController@test');
